@@ -1,7 +1,7 @@
 {
-  "name": "react-edit-inline",
-  "version": "1.0.8",
-  "description": "A simple inline text editor for React with ECMAScript 6 + JSX Harmony syntax",
+  "name": "react-inline-edit",
+  "version": "1.1.0",
+  "description": "A simple inline text editor for React",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kaivi/ReactInlineEdit.git"
+    "url": "git+https://github.com/vongohren/ReactInlineEdit"
   },
   "keywords": [
     "react",
@@ -24,9 +24,9 @@
   "author": "Kai Vik <kvi@ieee.org>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kaivi/ReactInlineEdit/issues"
+    "url": "https://github.com/vongohren/ReactInlineEdit/issues"
   },
-  "homepage": "https://github.com/kaivi/ReactInlineEdit#readme",
+  "homepage": "https://github.com/vongohren/ReactInlineEdit#readme",
   "peerDependencies": {
     "prop-types": "^15.6.2",
     "react": "^0.14.6 || 15.x.x"

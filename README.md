@@ -1,3 +1,6 @@
+# Currently not doing to support
+But we will see how it is used and if it works fine!
+
 # Inline Edit Component for React
 
 Before you continue, check out a successor to this repo: [React Inline Edit Kit](https://github.com/kaivi/riek). It is more functional, and will be maintained in future.
